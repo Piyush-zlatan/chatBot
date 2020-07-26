@@ -21,11 +21,7 @@ Pizza Ordering ChatBot using Dialogflow and Firebase.
      
     
     
-    
-    
-  Below is link of My Yo-Yo-Pizza-Bot: 
-     
-  https://bot.dialogflow.com/e9c5ce73-566a-4298-af3c-1b44e33c0c77
+
      
      
   
